@@ -8,6 +8,9 @@ Release/
 *.vcxproj.filters
 *.dir/
 *.sln
+bgfx/
+bimg/
+bx/
 install/
 install_manifest.txt
 generated/*
